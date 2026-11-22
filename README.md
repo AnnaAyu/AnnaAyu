@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Substitua o link abaixo pelo caminho da imagem hospedada ou carregada em seu repositório -->
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/banner.png" alt="Anna Beatriz Calderaro - Banner" width="100%" />
+  <img src="./banner.svg" alt="Anna Beatriz Calderaro - Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -74,10 +73,10 @@ Minha paixão está na interseção entre engenharia de software, análise de ne
 ### `💌 vamos_conectar`
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anna-beatriz-calderaro-45bb30251/" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=F8FAFC" />
   </a>
-  <a href="ab.calderaro@outlook.com">
+  <a href="mailto:SEU-EMAIL@dominio.com">
     <img src="https://img.shields.io/badge/Email-831843?style=for-the-badge&logo=gmail&logoColor=F8FAFC" />
   </a>
 </p>
